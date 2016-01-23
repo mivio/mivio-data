@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/trevid/trevid-data#readme",
   "dependencies": {
+    "bluebird": "^3.1.1",
     "vogels-helpers": "^0.1.4"
   }
 }
