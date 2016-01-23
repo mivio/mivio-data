@@ -1,0 +1,26 @@
+{
+  "name": "trevid-data",
+  "version": "0.0.1",
+  "description": "Trevid data access layer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -t 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevid/trevid-data.git"
+  },
+  "keywords": [
+    "trevid",
+    "data"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevid/trevid-data/issues"
+  },
+  "homepage": "https://github.com/trevid/trevid-data#readme",
+  "dependencies": {
+    "vogels-helpers": "^0.1.4"
+  }
+}
