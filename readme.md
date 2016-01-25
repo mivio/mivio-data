@@ -1,3 +1,3 @@
-# trevid-data
+# mivio-data
 
-Trevid data access layer.
+Mivio data access layer.

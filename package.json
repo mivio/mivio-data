@@ -1,25 +1,25 @@
 {
-  "name": "trevid-data",
+  "name": "mivio-data",
   "version": "0.1.0",
-  "description": "Trevid data access layer",
+  "description": "Mivio data access layer",
   "main": "./lib/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha -t 10000"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trevid/trevid-data.git"
+    "url": "git+https://github.com/mivio/mivio-data.git"
   },
   "keywords": [
-    "trevid",
+    "mivio",
     "data"
   ],
   "author": "Dumitru Cantea",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trevid/trevid-data/issues"
+    "url": "https://github.com/mivio/mivio-data/issues"
   },
-  "homepage": "https://github.com/trevid/trevid-data#readme",
+  "homepage": "https://github.com/mivio/mivio-data#readme",
   "dependencies": {
     "bluebird": "^3.1.1",
     "vogels-helpers": "^0.1.6"
