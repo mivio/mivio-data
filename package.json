@@ -1,6 +1,6 @@
 {
   "name": "mivio-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mivio data access layer",
   "main": "./lib/index.js",
   "scripts": {
